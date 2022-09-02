@@ -17,10 +17,9 @@
 <br/>
 
 # 👩‍💻 Modeling
-- startapp users, petsitters, reviews, core
-<img width="1146" alt="스크린샷 2022-09-02 오후 3 55 33" src="https://user-images.githubusercontent.com/89918678/188077043-40045eb9-7185-493d-96ce-e3aa6acc2d1f.png">
+- startapp users, petsitters, reviews, bookings, core
+<img width="800" alt="스크린샷 2022-09-02 오후 3 55 33" src="https://user-images.githubusercontent.com/89918678/188077043-40045eb9-7185-493d-96ce-e3aa6acc2d1f.png">
 
-<br/>
 <br/>
 
 # 👩‍💻 Features
@@ -61,4 +60,6 @@
 ## 📌 Review
 
 ### Petsitter Review <br/>
+- 랜덤 데이터 추출
+
 ![daengcance_review](https://user-images.githubusercontent.com/89918678/188074978-ded32bea-d7ed-45fc-8394-050b465731c2.gif)
